@@ -1,16 +1,22 @@
-# dicoding_restaurants
+# Restaurant App
+Hello, nice to meet you, thank you for visiting :)
+This Application is made to complete the submission of Dicoding Course
 
-A new Flutter project.
+![Restaurant App](https://user-images.githubusercontent.com/67012680/192716313-4809a4fd-f897-4976-9d82-2c955cbe9fe3.png)
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Home
+- Search
+- Detail Restaurant
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
+```
+cupertino_icons: ^1.0.2
+google_fonts: ^3.0.1
+http: ^0.13.5
+provider: ^6.0.3
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Design UI By Me
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
